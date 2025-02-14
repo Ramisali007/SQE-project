@@ -1,2 +1,1 @@
-"# SQE-project" 
-"# SQE-project" 
+# Software Quality Engineering Project
